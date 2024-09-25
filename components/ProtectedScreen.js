@@ -4,6 +4,12 @@ import { AuthContext } from './AuthProvider';
 
 function ProtectedScreen() {
   
+
+  return (
+  <Text testID='accessDeniedMessage'>
+
+  </Text>
+  )
  }
 
 const styles = StyleSheet.create({

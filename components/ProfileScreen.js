@@ -6,7 +6,7 @@ function ProfileScreen() {
 
   return (
     <View style={styles.container}>
-     <View style={styles.text}>Welcome to profile section</View>
+     <View style={styles.text}></View>
     </View>
   );
 }
